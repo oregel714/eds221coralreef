@@ -1,0 +1,2 @@
+The coral reef model is how we are able to monitor the growth or decrease in coral reef coverage throughout a time period. From 2004 to 2024, we can visualize how the different crises have affected the reef's coverage.
+ 
